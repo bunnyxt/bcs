@@ -1,0 +1,67 @@
+{
+  "title": "bunnyxt's cheat sheet",
+  "author": "bunnyxt",
+  "description": "bunnyxt的备技术忘录",
+  "language": "zh-hans",
+  "gitbook": "3.2.3",
+  "styles": {
+    "website": "./styles/website.css"
+  },
+  "structure": {
+    "readme": "README.md"
+  },
+  "plugins": [
+    "-sharing",
+    "sharing-plus",
+    "github",
+    "custom-favicon",
+    "flexible-alerts",
+    "pageview-count",
+    "auto-scroll-table",
+    "ancre-navigation"
+  ],
+  "pluginsConfig": {
+    "github": {
+      "url": "https://github.com/bunnyxt"
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": false,
+      "hatenaBookmark": false,
+      "instapaper": false,
+      "line": false,
+      "linkedin": false,
+      "messenger": false,
+      "pocket": false,
+      "qq": true,
+      "qzone": false,
+      "stumbleupon": false,
+      "twitter": false,
+      "viber": false,
+      "vk": false,
+      "weibo": true,
+      "whatsapp": false,
+      "all": [
+        "facebook",
+        "twitter",
+        "weibo",
+        "qq",
+        "linkedin"
+      ]
+    },
+    "favicon": "logo.ico",
+    "flexible-alerts": {
+      "style": "callout",
+      "note": {
+        "label": "注意"
+      },
+      "tip": {
+        "label": "提示"
+      },
+      "warning": {
+        "label": "警告"
+      }
+    }
+  }
+}
