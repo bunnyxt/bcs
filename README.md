@@ -2,6 +2,8 @@
 
 本书为[bunnyxt](https://www.bunnyxt.com)的技术备忘录，即bunnyxt's cheat sheet(bcs)，基于[GitBook](https://github.com/GitbookIO/gitbook)，使用MarkDown语法编写。
 
+您可以在我的个人网站[https://bcs.bunnyxt.com/](https://bcs.bunnyxt.com/)阅读到本书的最新内容（推荐），或在[本书的GitHub页面](https://github.com/bunnyxt/bcs)上查看、下载原文件（md格式）。**希望这份cheat sheat能帮到你，弱弱地求个Star！谢谢~**
+
 ## 何为cheat sheet
 
 Cheat sheet类似技术博客(blog)，是个人技术内容的记录与分享，但又与博客不同。Cheat sheet有以下特性：
@@ -25,6 +27,6 @@ Cheat sheet类似技术博客(blog)，是个人技术内容的记录与分享，
 
 ## 版权声明
 
-若无特殊说明，本cheat sheet所有条目采用[知识共享署名-非商业性使用-相同方式共享 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)国际许可协议进行许可。
+若无特殊说明，本cheat sheet所有条目采用[知识共享署名-相同方式共享 4.0](http://creativecommons.org/licenses/by-sa/4.0/)国际许可协议进行许可。至于为啥没有限制商用...随缘吧，这种东西肯定不会有人拿来商用的对吧x
 
-![by-nc-sa](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+![by-nc-sa](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
