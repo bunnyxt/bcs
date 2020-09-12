@@ -4,6 +4,7 @@
 * [Python](python/README.md)
     * [Ubuntu安装Python](python/ubuntu-install-python.md)
     * [Jupyter保存当前会话](python/jupyter-save-session.md)
+    * [set相关技巧](python/set.md)
 * [Java](java/README.md)
     * [Ubuntu安装Java](java/ubuntu-install-java.md)
 * [Linux](linux/README.md)
