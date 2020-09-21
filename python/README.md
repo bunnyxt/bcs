@@ -3,6 +3,7 @@
 * [Ubuntu安装Python](ubuntu-install-python.md)
 * [Jupyter保存当前会话](jupyter-save-session.md)
 * [set相关技巧](set.md)
+* [pandas相关操作](pandas.md)
 
 ## 字符串处理
 ### 替换字符串中的反斜杠
