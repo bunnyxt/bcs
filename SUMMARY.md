@@ -6,6 +6,7 @@
     * [Jupyter保存当前会话](python/jupyter-save-session.md)
     * [set相关技巧](python/set.md)
     * [pandas相关操作](python/pandas.md)
+    * [正则表达式](python/re.md)
 * [Java](java/README.md)
     * [Ubuntu安装Java](java/ubuntu-install-java.md)
 * [Linux](linux/README.md)
