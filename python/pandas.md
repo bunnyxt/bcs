@@ -1,5 +1,9 @@
 ## pandas相关操作
 
+```python
+import pandas as pd
+```
+
 ### Cheat Sheet
 
 ![pandas_cheat_sheet](pandas_cheat_sheet.png)
