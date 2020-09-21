@@ -10,13 +10,13 @@ pip install dill
 存储当前会话
 ```python
 import dill
-dill.dump_session('notebook_env.db')
+dill.dump_session('env.db')
 ```
 
 恢复会话
 ```python
 import dill
-dill.load_session('notebook_env.db')
+dill.load_session('env.db')
 ```
 
 ref: [How to pickle or store Jupyter (IPython) notebook session for later](https://stackoverflow.com/questions/34342155/how-to-pickle-or-store-jupyter-ipython-notebook-session-for-later)

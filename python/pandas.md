@@ -9,7 +9,6 @@
 ```python
 for index, row in df.iterrows():
     print('index %d, name %s, age %d' % (index, row['name'], row['age']))
-    # ...
 ```
 
 ### 多条件筛选
