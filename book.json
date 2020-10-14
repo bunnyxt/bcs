@@ -13,6 +13,7 @@
   "plugins": [
     "-sharing",
     "sharing-plus",
+    "search-pro",
     "github",
     "custom-favicon",
     "flexible-alerts",
