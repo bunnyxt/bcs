@@ -9,6 +9,8 @@
     * [正则表达式](python/re.md)
 * [Java](java/README.md)
     * [Ubuntu安装Java](java/ubuntu-install-java.md)
+* [JavaScript](javascript/README.md)
+    * [truthy与falsy](javascript/truthy-falsy.md)
 * [Linux](linux/README.md)
     * [快捷键](linux/shortcut.md)
     * [~/.bashrc配置](linux/bashrc.md)
