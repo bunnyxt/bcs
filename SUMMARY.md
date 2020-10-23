@@ -11,6 +11,8 @@
     * [Ubuntu安装Java](java/ubuntu-install-java.md)
 * [JavaScript](javascript/README.md)
     * [truthy与falsy](javascript/truthy-falsy.md)
+* [MySQL](mysql/README.md)
+    * [时间戳相关](mysql/ts.md)
 * [Linux](linux/README.md)
     * [快捷键](linux/shortcut.md)
     * [~/.bashrc配置](linux/bashrc.md)
