@@ -7,6 +7,7 @@
     * [set相关技巧](python/set.md)
     * [pandas相关操作](python/pandas.md)
     * [正则表达式](python/re.md)
+    * [格式化字符串](python/format.md)
 * [Java](java/README.md)
     * [Ubuntu安装Java](java/ubuntu-install-java.md)
 * [JavaScript](javascript/README.md)
