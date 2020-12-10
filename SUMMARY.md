@@ -19,6 +19,8 @@
     * [~/.bashrc配置](linux/bashrc.md)
     * [跳过第一行输出文本文件](linux/skip-first-line.md)
     * [tail -f | grep](linux/tail-f-grep.md)
+* [MacOS](macos/README.md)
+    * [终端指令](macos/terminal.md) 
 * [Web服务器](web-server/README.md)
     * [vsftpd](web-server/vsftpd.md)
     * [mysql-server](web-server/mysql-server.md)
