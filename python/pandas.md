@@ -20,3 +20,11 @@ for index, row in df.iterrows():
 ```python
 df_filtered = df[(df['sex'] == 'male') & (df['age'] >= 18)]
 ```
+
+### 按单行的数据之和筛选行
+
+```python
+df_filtered = df[df.sum(axis = 1) > 0]
+```
+
+ref: [Filter DataFrame in Pandas on sum of rows](https://stackoverflow.com/questions/40425484/filter-dataframe-in-pandas-on-sum-of-rows)
