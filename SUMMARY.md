@@ -12,6 +12,7 @@
     * [Ubuntu安装Java](java/ubuntu-install-java.md)
 * [JavaScript](javascript/README.md)
     * [truthy与falsy](javascript/truthy-falsy.md)
+    * [防抖与节流](javascript/debounce-throttle.md)
 * [MySQL](mysql/README.md)
     * [时间戳相关](mysql/ts.md)
 * [Linux](linux/README.md)
