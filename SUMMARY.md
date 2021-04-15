@@ -13,6 +13,7 @@
 * [JavaScript](javascript/README.md)
     * [truthy与falsy](javascript/truthy-falsy.md)
     * [防抖与节流](javascript/debounce-throttle.md)
+    * [字符串相关操作](javascript/string-methods.md)
 * [MySQL](mysql/README.md)
     * [时间戳相关](mysql/ts.md)
 * [Linux](linux/README.md)
