@@ -16,6 +16,7 @@
     * [字符串相关操作](javascript/string-methods.md)
 * [MySQL](mysql/README.md)
     * [时间戳相关](mysql/ts.md)
+    * [空间占用检查](mysql/space_occupation.md)
 * [Linux](linux/README.md)
     * [快捷键](linux/shortcut.md)
     * [~/.bashrc配置](linux/bashrc.md)
