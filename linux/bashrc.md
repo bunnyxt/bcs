@@ -1,13 +1,15 @@
 ## ~/.bashrc配置
 
-### 每次SSH连接后配置不自动生效
+### 每次登录终端后.bashrc文件中的配置不自动生效
 
-在`/etc/profile`文件中添加`source ~/.bashrc`
+解决方法：在`/etc/profile`文件中添加`source ~/.bashrc`
 
 ### alias
 
 ```shell
 alias ll='ls -lh'  #alias ll='ls -alF'
+alias tf='tail -n 20 -f'
+alias ks='echo "- command corrected, ks -> ls" && ls'
 ```
 
 ### 环境变量
