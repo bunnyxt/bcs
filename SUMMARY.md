@@ -22,6 +22,7 @@
     * [~/.bashrc配置](linux/bashrc.md)
     * [跳过第一行输出文本文件](linux/skip-first-line.md)
     * [tail -f | grep](linux/tail-f-grep.md)
+    * [scp路径中包含空格](linux/scp-space-in-path.md)
 * [MacOS](macos/README.md)
     * [终端指令](macos/terminal.md) 
 * [Web服务器](web-server/README.md)
