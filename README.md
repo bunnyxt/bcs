@@ -21,6 +21,20 @@ Cheat sheet类似技术博客(blog)，是个人技术内容的记录与分享，
 - md中出现的图片与md文件放在同一目录下，尽量不使用外链
 - 参考链接统一放在文末，用`ref`形式标记
 
+## 开发与构建
+
+本书基于GitBook开发与构建，流程如下：
+- 安装node与npm。注意：新版node中无法使用gitbook，因此需要安装旧版本的node；强烈推荐使用nvm管理多版本node
+  - [下载](https://github.com/coreybutler/nvm-windows/releases)并安装nvm
+  - `nvm install 10.21.0`安装指定的旧版本node（经测试10.21.0版本可用）
+  - `nvm use 10.21.0`切换到此版本node环境
+- `npm install -g gitbook-cli`全局安装`gitbook-cli`
+- `cd bcs`进入文件夹
+- `gitbook install`安装插件
+- `gitbook serve`启动本地开发实时预览，默认在`http://localhost:4000/`
+  - Windows下存在无法热更新的问题，解决方法参考[此处](https://juejin.cn/post/6844903840332939277)，在执行`gitbook serve`之后，立刻手动删除`_book`文件夹即可
+- `gitbook build`构建生成可直接部署的静态网站，存放于`_book`文件夹中
+
 ## 关于bunnyxt
 
 业余全栈工程师，业余站长，联系方式：[bunnyxt@outlook.com](mailto:bunnyxt@outlook.com)
