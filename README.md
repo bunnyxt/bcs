@@ -1,3 +1,7 @@
+> 注意
+> 
+> 因为ChatGPT、Cursor等各种辅助工具的出现，自己维护一个通用知识文档的投入产出比越来越低，继续维护非常困难，于是Archive此项目。
+
 # bunnyxt's cheat sheet
 
 本书为[bunnyxt](https://www.bunnyxt.com)的技术备忘录，即bunnyxt's cheat sheet(bcs)，基于[GitBook](https://github.com/GitbookIO/gitbook)，使用MarkDown语法编写。
